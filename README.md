@@ -4,7 +4,7 @@ Mini Shooting Game by Object-Oriented Programming in JavaScript
 
 ## Demo
 
-- https:/code4fukui.github.io/ooshooting/
+- https://code4fukui.github.io/ooshooting/
 
 ## for Local
 
