@@ -1,0 +1,60 @@
+<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=600"><link rel="icon" href="icon.png">
+<link rel="apple-touch-icon" href="icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>ooshooting</title>
+
+<main></main>
+
+<div class=btns>
+<span id=btnleft>◀</span>
+<span id=btnright>▶</span>
+<span id=btnspc>SPC</span>
+<span id=btna>A</span>
+</div>
+
+<div id=credit>
+images from <a href=http://pancake.shizentai.jp/>PanCake</a> by <a href=https://pcn.club/>PCN</a> <a href=https://creativecommons.org/licenses/by-nc/4.0/>(CC BY-NC)</a><br>
+sounds <a href=https://creativecommons.jp/sciencecommons/aboutcc0/>(CC0)</a><br>
+base <a href=https://book.mynavi.jp/ec/products/detail/id=141696>ゲーム作りで楽しく学ぶ　オブジェクト指向のきほん</a> by 森 巧尚<br>
+translated to JavaScript by <a href=https://fukuno.jig.jp/4166/>福野泰介</a> with <a href=https://github.com/code4fukui/pygame.js>pygame.js</a> <a href=https://opensource.org/license/mit/>(MIT-License)</a><br>
+<br>
+<a href=https://code4fukui.github.io/ooshooting/>src on GitHub</a><br>
+</div>
+
+<script type="module" src="mygame.js"></script>
+
+<style>
+body {
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+  height: 100vh;
+  overflow: hidden;
+  background-color: black;
+}
+main {
+  display: inline-block;
+  width: 600px;
+  height: 650px;
+}
+.btns > span {
+  display: inline-block;
+  border: 2px solid black;
+  background-color: white;
+  margin-top: 20px;
+  width: 120px;
+  height: 100px;
+  line-height: 100px;
+  font-size: 30px;
+}
+#credit {
+  color: #aaa;
+  font-size: 90%;
+  margin-top: 2em;
+}
+#credit a {
+  color: #aaa !important;
+}
+</style>
+
+</body></html>
