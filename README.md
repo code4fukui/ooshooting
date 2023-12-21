@@ -13,6 +13,11 @@ python -m http.server
 ```
 open http://[::]:8000/
 
+## Resources
+
+- [images](images/) by PanCake
+- [sounds](sounds/) made from [sounds.mml.csv] by [IchigoJam/MML](https://github.com/IchigoJam/MML/)
+
 ## How to change images
 
 ```sh
