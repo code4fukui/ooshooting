@@ -16,7 +16,7 @@ open http://[::]:8000/
 ## Resources
 
 - [images](images/) by PanCake
-- [sounds](sounds/) made from [sounds.mml.csv] by [IchigoJam/MML](https://github.com/IchigoJam/MML/)
+- [sounds](sounds/) made from [sounds.mml.csv](sounds.mml.csv) by [makesounds.js](makesounds.js) with [IchigoJam/MML](https://github.com/IchigoJam/MML/)
 
 ## How to change images
 
